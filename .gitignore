@@ -1,0 +1,12 @@
+data/**
+pig/params.conf
+pig/result/**
+hive/config.hql
+hive/*.log
+hive/results/**
+hive/gamestats/**
+hive/metastore_db/**
+hive/pairs/**
+hive/recommendations/**
+hive/warehouse/**
+config.json
